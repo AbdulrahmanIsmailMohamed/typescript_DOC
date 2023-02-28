@@ -10,4 +10,4 @@ function sum(num1, num2) {
 }
 console.log(sum(num1, num2));
 console.log(typeof sum(num1, num2));
-//# sourceMappingURL=typeAnnotations.js.map
+//# sourceMappingURL=anyType.js.map
