@@ -1,0 +1,1 @@
+{"version":3,"file":"void-Never.js","sourceRoot":"","sources":["../../src/dataType/void-Never.ts"],"names":[],"mappings":";AAAA;;;;;;;;EAQE;AAEF,SAAS,OAAO,CAAC,GAAW;IACxB,OAAO,CAAC,GAAG,CAAC,aAAa,GAAG,EAAE,CAAC,CAAC;IAChC,OAAO,CAAC,YAAY;AACxB,CAAC;AACD,OAAO,CAAC,aAAa,CAAC,CAAC;AAEvB,SAAS,IAAI;IACT,MAAM,aAAa,CAAA;IACnB,+BAA+B;AACnC,CAAC;AACD,IAAI,EAAE,CAAC"}

@@ -13,7 +13,6 @@ function printInConsole(...params: any) {
         }
     }
 }
-
 // Using The Function => Do Not Edit
 console.log(printInConsole(1, 2, 3, 4, 5));
 console.log(printInConsole("A", "B", "C"));

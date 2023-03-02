@@ -4,5 +4,6 @@ let theName = "Elzero";
 function showMyDetails(a = "", b = "", c = "") {
     return `${a}${b}${c}`;
 }
-console.log(showMyDetails(theName));
+// Replace ???? With The Available Variables As Argument To Get The Result
+console.log(showMyDetails(theName)); // Elzero
 //# sourceMappingURL=task4.js.map
