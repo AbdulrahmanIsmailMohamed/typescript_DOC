@@ -8,4 +8,4 @@
 // console.log(img.src);
 let str = 1000;
 console.log(str.repeat(3));
-//# sourceMappingURL=TypeAssertions.js.map
+//# sourceMappingURL=typeAssertions.js.map
