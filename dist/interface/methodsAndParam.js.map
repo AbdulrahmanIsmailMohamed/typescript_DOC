@@ -1,1 +1,1 @@
-{"version":3,"file":"methodsAndParam.js","sourceRoot":"","sources":["../../src/interface/methodsAndParam.ts"],"names":[],"mappings":";AAAA;;EAEE"}
+{"version":3,"file":"methodsAndParam.js","sourceRoot":"","sources":["../../src/interface/methodsAndParam.ts"],"names":[],"mappings":";AAAA;;EAEE;AAaF,IAAI,OAAO,GAAW;IAClB,IAAI,EAAC,aAAa;IAClB,OAAO,EAAC,SAAS;IACjB,KAAK,EAAC,SAAS;IACf,OAAO,EAAC,MAAM;IACd,OAAO,EAAC,OAAO;IACf,SAAS,EAAC,SAAS;IACnB,SAAS,EAAC,IAAI;CAEjB,CAAA"}
